@@ -1,8 +1,8 @@
-![On-device multi-agent systems and belief-graph memory. Based in Barcelona.](./assets/banner.svg)
+![On-device multi-agent systems and belief-graph memory.](./assets/banner.svg)
 
 ## Sam Jones
 
-Cofounder and Head of Engineering at **[Axiotic](https://axiotic.ai)**. We build governed multi-agent systems and belief-graph memory that run on local models — private, auditable, on-device. Based in Barcelona.
+Cofounder and Head of Engineering at **[Axiotic](https://axiotic.ai)**. We build governed multi-agent systems and belief-graph memory that run on local models. Private, auditable and on-device. Based in Barcelona.
 
 ### Open source
 
