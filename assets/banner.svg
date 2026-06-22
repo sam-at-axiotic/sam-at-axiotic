@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" font-family="Arial, Helvetica, sans-serif">
   <rect width="1280" height="320" fill="#F5EEDC"/>
 
-  <!-- hero -->
-  <text x="84" y="150" font-size="66" font-weight="800" letter-spacing="-2" fill="#1A1A17">Many minds,</text>
-  <text x="84" y="226" font-size="66" font-weight="800" letter-spacing="-2" fill="#1A1A17">one <tspan fill="#E8553B">true</tspan> memory.</text>
-  <text x="88" y="272" font-size="24" font-weight="600" fill="#3a3a33">Governed agents on local models — private, auditable, on-device.</text>
+  <!-- direct description -->
+  <text x="84" y="148" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">On-device multi-agent systems</text>
+  <text x="84" y="204" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">and belief-graph memory.</text>
+  <text x="86" y="250" font-size="23" font-weight="600" fill="#3a3a33">Runs on local models · Barcelona</text>
 
   <!-- latent-space manifold (from the live site logo) -->
   <g transform="translate(902,-18) scale(0.80)">

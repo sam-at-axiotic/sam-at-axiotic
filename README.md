@@ -1,4 +1,4 @@
-![Many minds, one true memory — governed multi-agent systems on local models](./assets/banner.svg)
+![On-device multi-agent systems and belief-graph memory. Runs on local models. Barcelona.](./assets/banner.svg)
 
 ## Sam Jones
 
