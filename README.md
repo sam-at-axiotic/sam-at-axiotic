@@ -1,4 +1,4 @@
-![On-device multi-agent systems and belief-graph memory. Runs on local models. Barcelona.](./assets/banner.svg)
+![On-device multi-agent systems and belief-graph memory. Based in Barcelona.](./assets/banner.svg)
 
 ## Sam Jones
 
