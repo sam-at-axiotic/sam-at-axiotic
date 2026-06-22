@@ -2,9 +2,9 @@
 
 ## Sam Jones
 
-Cofounder and Head of Engineering at **[Axiotic](https://axiotic.ai)** — on-device AI that holds one true model of the world and reasons over it locally. Based in Barcelona.
+Cofounder and Head of Engineering at **[Axiotic](https://axiotic.ai)**: on-device AI that holds one true model of the world and reasons over it locally. Based in Barcelona.
 
-I build edge and on-device AI: persistent memory, multi-agent systems, and ML stacks written from scratch where no libraries exist. Before Axiotic I was Chief AI Officer at Pieces, where I built on-device memory and copilots used by 150,000+ developers and helped raise $27M across three rounds. Ex-Amazon Applied Scientist. MSc AI (Distinction), Edinburgh.
+I build edge and on-device AI: persistent memory, multi-agent systems, and ML stacks written from scratch where no libraries exist. Before Axiotic I was Chief AI Officer at Pieces, where I built on-device memory and copilots used by 250,000+ developers and helped raise $27M across three rounds. MSc AI (Distinction), Edinburgh.
 
 ### What I care about
 
