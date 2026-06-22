@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" font-family="Arial, Helvetica, sans-serif">
   <rect width="1280" height="320" fill="#F5EEDC"/>
 
-  <!-- wordmark + tagline -->
-  <text x="84" y="156" font-size="98" font-weight="800" letter-spacing="-3" fill="#1A1A17">Axiotic</text>
-  <text x="88" y="210" font-size="30" font-weight="700" fill="#1A1A17">On-device memory &amp; reasoning,</text>
-  <text x="88" y="250" font-size="30" font-weight="700" fill="#E8553B">in one system that stays true.</text>
+  <!-- hero -->
+  <text x="84" y="150" font-size="66" font-weight="800" letter-spacing="-2" fill="#1A1A17">Many minds,</text>
+  <text x="84" y="226" font-size="66" font-weight="800" letter-spacing="-2" fill="#1A1A17">one <tspan fill="#E8553B">true</tspan> memory.</text>
+  <text x="88" y="272" font-size="24" font-weight="600" fill="#3a3a33">Governed agents on local models — private, auditable, on-device.</text>
 
   <!-- latent-space manifold (from the live site logo) -->
   <g transform="translate(902,-18) scale(0.80)">

@@ -1,4 +1,4 @@
-![Axiotic — on-device memory and reasoning, in one system that stays true](./assets/banner.svg)
+![Many minds, one true memory — governed multi-agent systems on local models](./assets/banner.svg)
 
 ## Sam Jones
 
