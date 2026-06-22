@@ -2,9 +2,8 @@
   <rect width="1280" height="320" fill="#F5EEDC"/>
 
   <!-- direct description -->
-  <text x="84" y="148" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">On-device multi-agent systems</text>
-  <text x="84" y="204" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">and belief-graph memory.</text>
-  <text x="86" y="250" font-size="23" font-weight="600" fill="#3a3a33">Runs on local models · Barcelona</text>
+  <text x="84" y="162" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">On-device multi-agent systems</text>
+  <text x="84" y="218" font-size="46" font-weight="800" letter-spacing="-1" fill="#1A1A17">and belief-graph memory.</text>
 
   <!-- latent-space manifold (from the live site logo) -->
   <g transform="translate(902,-18) scale(0.80)">
