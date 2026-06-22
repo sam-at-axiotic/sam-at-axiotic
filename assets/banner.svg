@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1280" height="320" fill="#F5EEDC"/>
+
+  <!-- wordmark + tagline -->
+  <text x="84" y="156" font-size="98" font-weight="800" letter-spacing="-3" fill="#1A1A17">Axiotic</text>
+  <text x="88" y="210" font-size="30" font-weight="700" fill="#1A1A17">On-device memory &amp; reasoning,</text>
+  <text x="88" y="250" font-size="30" font-weight="700" fill="#E8553B">in one system that stays true.</text>
+
+  <!-- latent-space manifold (from the live site logo) -->
+  <g transform="translate(902,-18) scale(0.80)">
+    <g fill="none" stroke="#1A1A17" stroke-width="3.5">
+      <path d="M60 250 C30 150 150 60 250 70 C360 80 430 160 410 250 C392 332 300 372 210 360 C120 348 86 330 60 250 Z" fill="#F2B33D"/>
+      <path d="M104 244 C84 174 168 116 244 122 C330 129 372 184 358 246 C346 300 286 330 220 322 C150 314 122 300 104 244 Z" fill="#E8553B"/>
+      <path d="M146 240 C134 196 188 160 244 166 C300 172 326 204 318 244 C311 282 276 300 232 296 C186 292 158 282 146 240 Z" fill="#1F7A70"/>
+      <path d="M186 238 C180 214 208 196 240 200 C272 204 286 220 282 240 C278 262 258 272 234 270 C208 268 192 262 186 238 Z" fill="#F5EEDC"/>
+    </g>
+    <g stroke="#1A1A17" stroke-width="2.4" stroke-dasharray="2 9" stroke-linecap="round" opacity="0.85">
+      <line x1="120" y1="120" x2="234" y2="234"/>
+      <line x1="360" y1="140" x2="234" y2="234"/>
+      <line x1="380" y1="300" x2="234" y2="234"/>
+      <line x1="110" y1="320" x2="234" y2="234"/>
+    </g>
+    <g stroke="#1A1A17" stroke-width="3">
+      <circle cx="234" cy="234" r="9" fill="#1A1A17"/>
+      <circle cx="120" cy="120" r="8" fill="#F5EEDC"/>
+      <circle cx="360" cy="140" r="8" fill="#F5EEDC"/>
+      <circle cx="380" cy="300" r="8" fill="#F5EEDC"/>
+      <circle cx="110" cy="320" r="8" fill="#F5EEDC"/>
+    </g>
+  </g>
+</svg>
