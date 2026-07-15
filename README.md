@@ -1,4 +1,4 @@
-![On-device multi-agent systems and belief-graph memory.](./assets/banner.svg)
+![On-device multi-agent systems.](./assets/banner.svg)
 
 ## Sam Jones
 
